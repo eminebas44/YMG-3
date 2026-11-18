@@ -1,0 +1,18 @@
+[
+  {
+    "filtre": 8,
+    "parametre": 27562,
+    "egitim_dogrulugu": 0.8823518753051758,
+    "dogrulama_dogrulugu": 0.8763333559036255,
+    "test_dogrulugu": 0.8726999759674072,
+    "sure": 23.73205590248108
+  },
+  {
+    "filtre": 16,
+    "parametre": 28794,
+    "egitim_dogrulugu": 0.8866481184959412,
+    "dogrulama_dogrulugu": 0.8773333430290222,
+    "test_dogrulugu": 0.8761000037193298,
+    "sure": 29.164117097854614
+  }
+]
